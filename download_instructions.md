@@ -3,7 +3,7 @@
 <ol> 
  <li> Click on the file from the main repo page</li>
  <li> Click the download button (top right of the file view pane)</li>
- <li> You will be rediected to a window with the raw data. Copy the link of that page </li>
+ <li> You will be redirected to a window with the raw data. Copy the link of that page </li>
  <li> Use that link as your file path </li>
 </ol>
 
